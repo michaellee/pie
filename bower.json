@@ -1,0 +1,22 @@
+{
+  "name": "pie-css",
+  "homepage": "https://michaelsoolee.com/pie",
+  "authors": [
+    "Michael Lee <michaelsoolee@gmail.com>"
+  ],
+  "description": "A simple modular CSS library",
+  "main": "sass/pie.scss",
+  "keywords": [
+    "css",
+    "sass",
+    "modular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

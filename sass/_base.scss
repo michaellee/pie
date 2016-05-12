@@ -1,0 +1,33 @@
+html, body{
+  height: 100%;
+}
+
+html{
+  font-family: sans-serif;
+  box-sizing: border-box;
+  line-height: 1.325;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background: $white;
+  color: $black;
+  letter-spacing: 0.01em;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a{
+  color: $blue;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}

@@ -1,0 +1,33 @@
+$blue:            #249AD4;
+$green:           #64A94A;
+$red:             #DA5B31;
+$yellow:          #EFA439;
+$lighter-gray:    #F2F2F0;
+$silver:          #E0E0DC;
+$light-gray:      #BABAB6;
+$gray:            #7A7A78;
+$highlight-gray:  #5C5C5A;
+$dark-gray:       #3B3B39;
+$black:           #2E2E2D;
+$white:           #FCFFFD;
+
+$colors:(
+  blue:           $blue,
+  green:          $green,
+  red:            $red,
+  yellow:         $yellow,
+  lighter-gray:   $lighter-gray,
+  gray:           $gray,
+  highlight-gray: $highlight-gray,
+  silver:         $silver,
+  light-gray:     $light-gray,
+  dark-gray:      $dark-gray,
+  black:          $black,
+  white:          $white,
+);
+
+$breakpoint-sm: '(min-width: 40em)' !default;
+$breakpoint-md: '(min-width: 52em)' !default;
+$breakpoint-lg: '(min-width: 64em)' !default;
+
+$border-radius-value: 3px;
