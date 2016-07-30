@@ -12,18 +12,18 @@ $black:           #2E2E2D;
 $white:           #FCFFFD;
 
 $colors:(
-  blue:           $blue,
-  green:          $green,
-  red:            $red,
-  yellow:         $yellow,
-  lighter-gray:   $lighter-gray,
-  gray:           $gray,
-  highlight-gray: $highlight-gray,
-  silver:         $silver,
-  light-gray:     $light-gray,
-  dark-gray:      $dark-gray,
-  black:          $black,
-  white:          $white,
+  'blue':           $blue,
+  'green':          $green,
+  'red':            $red,
+  'yellow':         $yellow,
+  'lighter-gray':   $lighter-gray,
+  'gray':           $gray,
+  'highlight-gray': $highlight-gray,
+  'silver':         $silver,
+  'light-gray':     $light-gray,
+  'dark-gray':      $dark-gray,
+  'black':          $black,
+  'white':          $white,
 );
 
 $breakpoint-sm: '(min-width: 40em)' !default;
