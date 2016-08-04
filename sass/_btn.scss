@@ -19,7 +19,7 @@ $darken-3: rgba(0, 0, 0, .25) !default;
   color: inherit;
   background-color: transparent;
   text-transform: uppercase;
-  border-radius: 3px;
+  border-radius: $border-radius-value;
   color: $white;
   text-align: center;
 }
